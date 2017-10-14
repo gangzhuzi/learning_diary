@@ -1,0 +1,3 @@
+#20171014
+Java的foreach用法
+for（int i : range(10)）  
